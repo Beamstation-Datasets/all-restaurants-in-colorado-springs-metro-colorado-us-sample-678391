@@ -9,9 +9,9 @@
 | Dataset ID | `678391` |
 | Location | Colorado Springs, CO |
 | Category | Restaurants |
-| Full dataset size | 1,371 records |
-| Free sample size | 167 records (12.18%) |
-| Last export | 2026-03-31T13:49:18.937887+00:00 |
+| Full dataset size | 1,678 records |
+| Free sample size | 167 records (9.95%) |
+| Last export | 2026-04-14T14:14:43.520055+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-colorado-springs-metro-colorado-us-sample-678391/releases/download/sample-latest/beamstation_678391_restaurants-us-coloradospringsco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
