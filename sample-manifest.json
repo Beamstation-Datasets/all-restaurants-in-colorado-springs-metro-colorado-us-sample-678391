@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3431d9dd-887b-4eb6-847a-25cb63084087",
+  "export_job_id": "7db2d6d5-09a7-41aa-a14b-ffa100ec726a",
   "id_short": 678391,
-  "published_at": "2026-04-14T19:39:51Z",
+  "published_at": "2026-04-17T19:52:55Z",
   "repo_name": "all-restaurants-in-colorado-springs-metro-colorado-us-sample-678391",
   "sample_asset_name": "beamstation_678391_restaurants-us-coloradospringsco_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/678391/beamstation_678391_restaurants-us-coloradospringsco_SAMPLE_DIST.csv",
   "sample_records": 167,
   "sample_sha256": "0e55ae3a0ed4fdaafd27070c023f4d0060d610fcf732f8f42c30038cc9bd538f",
   "sample_size_bytes": 651806,
-  "total_records": 1371
+  "total_records": 1678
 }
