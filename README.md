@@ -1,6 +1,6 @@
 # All Restaurants in Colorado Springs (Metro), Colorado, US
 
-> Free BeamStation sample export with 162 rows and masked direct-contact fields.
+> Free BeamStation sample export with 185 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `678391` |
 | Location | Colorado Springs, CO |
 | Category | Restaurants |
-| Full dataset size | 1,623 records |
-| Free sample size | 162 records (9.98%) |
-| Last export | 2026-04-28T16:16:13.481838+00:00 |
+| Full dataset size | 1,859 records |
+| Free sample size | 185 records (9.95%) |
+| Last export | 2026-05-06T13:34:25.849492+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-colorado-springs-metro-colorado-us-sample-678391/releases/download/sample-latest/beamstation_678391_restaurants-us-coloradospringsco_SAMPLE_DIST.csv) |
 
 ## What is in this sample
